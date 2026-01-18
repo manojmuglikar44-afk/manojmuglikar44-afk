@@ -23,11 +23,4 @@ Hey! I'm Manoj, a CSE- Cyber Security student I like building projects,<br>explo
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**manojmuglikar44-afk/manojmuglikar44-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 
